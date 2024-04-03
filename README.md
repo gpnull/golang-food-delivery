@@ -98,12 +98,6 @@ $ docker run -d --network=fd-delivery \
     --privileged=true \
     jrcs/letsencrypt-nginx-proxy-companion
 ```
-
-## `🚀 Author`
-👤 **Chien Anbs**
-- Github: [@hvchien216](https://github.com/hvchien216)
-
-
 ### `Other...`
 <p align="left">
 <a href="https://letsencrypt.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/letsencrypt-3521543-2944961.png" alt="cloudflare" width="40" height="40"/> </a>
